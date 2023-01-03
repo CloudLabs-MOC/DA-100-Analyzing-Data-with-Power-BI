@@ -235,7 +235,7 @@ In this task you will create a new page and configure it as a drill through page
 
 	- Sales | Profit Margin
 
-12. Configure the format options for the visual, and in the **Grid** section, set the **Text Size** property to **20pt**.
+12. Configure the **format** options for the visual, and in the **Grid** section, set the **Text Size** property to **20pt**.
 
 	*The design of the drill through page is almost complete. You’ll enhance the page with conditional formatting in the next exercise.*
 
@@ -300,7 +300,8 @@ In this task you will enhance the drill through page with conditional formatting
 9. In the table visual, verify that the that the correct icons are displayed.
 
 	![Picture 112](Linked_image_Files/08-design-report-in-power-bi-desktop-enhanced_image34.png)
-10. Configure background color conditional formatting for the **Color** field.
+	
+10. Configure background color **conditional formatting** for the **Color** field.
 
 	![Picture 111](Linked_image_Files/DA100-112.png)	
 
@@ -398,7 +399,7 @@ In this task you will add two buttons, and assign bookmark actions to each.
 
 2. Position the button directly beneath the **Year** slicer.
 
-3. Select the button, and then in the **Visualizations** pane, turn the **Button Text** property to **On**.
+3. Select the button, and then in the **Format button** pane, turn the **Button Text** property to **On**.
 
 	![Picture 126](Linked_image_Files/08-design-report-in-power-bi-desktop-enhanced_image49.png)
 
