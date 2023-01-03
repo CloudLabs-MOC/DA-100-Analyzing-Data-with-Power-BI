@@ -305,10 +305,13 @@ In this task you will design the second report page. When you’ve completed the
 
 3. select the **Slicer**, in the **Visualizations** pane, and then select the **Region | Region** field.
 
+   ![](Linked_image_Files/slicer.png)
+
 4. Use the **Format** pane to enable the “Select All” option (in the **Selection Controls** group).
 
 5. Resize and position the slicer so it sits at the left side of the report page, and so it is about half the page height.
 
+	![](Linked_image_Files/matrix.png)
 	![Picture 44](Linked_image_Files/07-design-report-in-power-bi-desktop_image40.png)
 
 6. Add a matrix visual, and resize and position it so it fills the remaining space of the report page
