@@ -63,9 +63,9 @@ In this task you will first save the Power BI Desktop file.
 
 1. To save the file, click the **File** ribbon tab to open the backstage view.
 
-1. Select **Save**.
+1. Select **Save As**.
 
- 	![Picture 4](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image3.png)
+ 	![Picture 3](Linked_image_Files/04-configure-data-model-in-power-bi-desktop-advanced_image6.png)
 
 1. In the **Save As** window, navigate to the **C:\AllFiles\DA-100-Analyzing-Data-with-Power-BI-prod-rcc\Allfiles\DA-100-Allfiles\MySolution** folder.
 
