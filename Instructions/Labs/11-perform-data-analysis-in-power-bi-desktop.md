@@ -87,7 +87,7 @@ In this task you will setup the environment for the lab by creating a dataset.
 
 2. In the **Files** tile, click **Get**.
 
-	![Picture 10](Linked_image_Files/10-perform-data-analysis-in-power-bi-desktop_image5.png)
+	![Picture 10](Linked_image_Files/file.png)
 
 3. Click the **Local File** tile.
 
