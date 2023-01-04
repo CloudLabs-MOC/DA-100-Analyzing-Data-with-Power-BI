@@ -143,7 +143,7 @@ In this task you will setup the environment for the lab by creating a dataset.
 
 2. In the **Files** tile, click **Get**.
 
-    ![Picture 2](Linked_image_Files/09-create-power-bi-dashboard_image15.png)
+    ![Picture 2](Linked_image_Files/file.png)
 
 3. Click the **Local File** tile.
 
