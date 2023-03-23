@@ -137,23 +137,15 @@ In this task you will setup the environment for the lab by creating a dataset.
 
 *Important: If you have already published the report in the **Design a Report in Power BI Desktop, Part 2** lab, continue from the next task.*
 
-1. In the Microsoft Edge browser window, in the Power BI service, in the **Navigation** pane, at the bottom, click **Get Data**.
+1. In the Microsoft Edge browser window, in the Power BI service, navigate to **My Workspace**.
 
-    ![Picture 8](Linked_image_Files/09-create-power-bi-dashboard_image14.png)
+1. Select **Upload > Browse**.
 
-2. In the **Files** tile, click **Get**.
+1. Navigate to **D:\PL300\Labs\09-create-power-bi-dashboard\Starter** folder.
 
-    ![Picture 2](Linked_image_Files/file.png)
+1. Select the **Sales Analysis.pbix** file, and then select **Open**.
 
-3. Click the **Local File** tile.
-
-    ![Picture 5](Linked_image_Files/09-create-power-bi-dashboard_image16.png)
-
-4. In the **Open** window, navigate to the **C:\AllFiles\DA-100-Analyzing-Data-with-Power-BI-prod-rcc\Allfiles\DA-100-Allfiles\Labs\08-design-report-in-power-bi-desktop-enhanced\Starter** folder.
-
-5. Select the **Sales Analysis.pbix** file, and then click **Open**.
-
-6. If prompted to replace the dataset, click **Replace**.
+*If prompted to replace the dataset, select **Replace it**.*
 
 ### **Task 4: Create a dashboard**
 
