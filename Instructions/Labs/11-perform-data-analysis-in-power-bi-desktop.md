@@ -81,23 +81,17 @@ In this task you will setup the environment for the lab by creating a dataset.
 
 *Important: If you have already published the dataset in the **Create a Power BI Dashboard** lab, continue from the next task.*
 
-1. In the Microsoft Edge browser window, in the Power BI service, in the **Navigation** pane, at the bottom, click **Get Data**.
+1. In the Microsoft Edge browser window, in the Power BI service, from the **Navigation** pane, click on **My Workspace**.
 
-	![Picture 8](Linked_image_Files/10-perform-data-analysis-in-power-bi-desktop_image4.png)
+2. Select **Upload** from the top and click on **Browse**.
 
-2. In the **Files** tile, click **Get**.
+	![Picture 10](Linked_image_Files/DA-100-img.png)
 
-	![Picture 10](Linked_image_Files/file.png)
+3. In the **Open** window, navigate to the **C:\AllFiles\DA-100-Analyzing-Data-with-Power-BI-prod-rcc\Allfiles\DA-100-Allfiles\Labs\09-create-power-bi-dashboard\Solution** folder.
 
-3. Click the **Local File** tile.
+4. Select the **Sales Analysis.pbix** file, and then click **Open**.
 
-	![Picture 11](Linked_image_Files/10-perform-data-analysis-in-power-bi-desktop_image6.png)
-
-4. In the **Open** window, navigate to the **C:\AllFiles\DA-100-Analyzing-Data-with-Power-BI-prod-rcc\Allfiles\DA-100-Allfiles\Labs\09-create-power-bi-dashboard\Solution** folder.
-
-5. Select the **Sales Analysis.pbix** file, and then click **Open**.
-
-6. If prompted to replace the dataset, click **Replace**.
+5. If prompted to replace the dataset, click **Replace**.
 
 ### **Task 3: Create the report**
 
